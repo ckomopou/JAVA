@@ -1,5 +1,10 @@
+package com.timbuchalka;
+
 import java.util.ArrayList;
 
+/**
+ * Created by dev on 4/09/15.
+ */
 public class Customer {
     private String name;
     private ArrayList<Double> transactions;
@@ -9,8 +14,8 @@ public class Customer {
         this.transactions = new ArrayList<Double>();
         addTransaction(initialAmount);
     }
-    
-    public void addTransaction(double amount){
+
+    public void addTransaction(double amount) {
         this.transactions.add(amount);
     }
 
