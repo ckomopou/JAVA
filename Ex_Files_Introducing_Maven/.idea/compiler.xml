@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents (5)" />
+        <module name="learning-maven-presidents" />
+        <module name="learning-maven-presidents (6)" />
+        <module name="learning-maven-presidents (1)" />
+        <module name="learning-maven-presidents (7)" />
+        <module name="learning-maven-presidents (2)" />
+        <module name="learning-maven-presidents (8)" />
+        <module name="learning-maven-presidents (3)" />
+        <module name="learning-maven-presidents (9)" />
+        <module name="learning-maven-presidents (4)" />
+        <module name="learning-maven-presidents (10)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="learning-maven" target="11" />
+      <module name="learning-maven (1)" target="11" />
+      <module name="learning-maven (10)" target="11" />
+      <module name="learning-maven (2)" target="11" />
+      <module name="learning-maven (3)" target="11" />
+      <module name="learning-maven (4)" target="11" />
+      <module name="learning-maven (5)" target="11" />
+      <module name="learning-maven (6)" target="11" />
+      <module name="learning-maven (7)" target="11" />
+      <module name="learning-maven (8)" target="11" />
+      <module name="learning-maven (9)" target="11" />
+      <module name="learning-maven-presidents" target="11" />
+      <module name="learning-maven-presidents (1)" target="11" />
+      <module name="learning-maven-presidents (10)" target="11" />
+      <module name="learning-maven-presidents (2)" target="11" />
+      <module name="learning-maven-presidents (3)" target="11" />
+      <module name="learning-maven-presidents (4)" target="11" />
+      <module name="learning-maven-presidents (5)" target="11" />
+      <module name="learning-maven-presidents (6)" target="11" />
+      <module name="learning-maven-presidents (7)" target="11" />
+      <module name="learning-maven-presidents (8)" target="11" />
+      <module name="learning-maven-presidents (9)" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
